@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+facebook-web3-sanity/node_modules
 /.pnp
 .pnp.js
 
